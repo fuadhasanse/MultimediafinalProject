@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CompressData", "CompressData\CompressData.vcxproj", "{AE8AE515-0493-4139-B515-78CAE3DEC11F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GenerateRandomData", "GenerateRandomData\GenerateRandomData.vcxproj", "{3B84CC89-729D-4D04-9772-AF26503E125A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8AE515-0493-4139-B515-78CAE3DEC11F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE8AE515-0493-4139-B515-78CAE3DEC11F}.Debug|Win32.Build.0 = Debug|Win32
+		{AE8AE515-0493-4139-B515-78CAE3DEC11F}.Release|Win32.ActiveCfg = Release|Win32
+		{AE8AE515-0493-4139-B515-78CAE3DEC11F}.Release|Win32.Build.0 = Release|Win32
+		{3B84CC89-729D-4D04-9772-AF26503E125A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B84CC89-729D-4D04-9772-AF26503E125A}.Debug|Win32.Build.0 = Debug|Win32
+		{3B84CC89-729D-4D04-9772-AF26503E125A}.Release|Win32.ActiveCfg = Release|Win32
+		{3B84CC89-729D-4D04-9772-AF26503E125A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
